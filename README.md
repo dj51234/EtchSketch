@@ -6,4 +6,4 @@
 
 ## App
 
-- Draw with the arrow keys and make whatever your heart desires!
+Draw with the arrow keys and make whatever your heart desires!
