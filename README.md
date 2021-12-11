@@ -1,6 +1,6 @@
 # EtchNSketch
 
-## Visit website: https://dj51234.github.io/EtchSketch/
+### Visit website: https://dj51234.github.io/EtchSketch/
 
 <br>
 
